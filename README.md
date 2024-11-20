@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizwan-khan-03" alt="rizwan-khan-03" /></a> </p>
 
-- 🔭 I’m currently working on [Scrollx](https://www.scrollx.io/)
+- 🔭 I’m currently working at NextGen Invent Noida
 
 - 🌱 I’m currently learning **Node.js,Express.js,MongoDB**
 
